@@ -1,0 +1,13 @@
+﻿body {
+    background-color: #f5f5f5;
+}
+
+.support_flash, .support {
+    border: 2px solid black;
+    padding: 5px;
+    float: left;
+}
+
+.support {
+    padding: 45px;
+}
